@@ -9,13 +9,13 @@ var win;
 var lock = false;
 var speed = 800;
 var audio1 = new Audio(
-  'http://s3.amazonaws.com/freecodecamp/simonSound1.mp3');
+  'https://s3.amazonaws.com/freecodecamp/simonSound1.mp3');
 var audio2 = new Audio(
-  'http://s3.amazonaws.com/freecodecamp/simonSound2.mp3');
+  'https://s3.amazonaws.com/freecodecamp/simonSound2.mp3');
 var audio3 = new Audio(
-  'http://s3.amazonaws.com/freecodecamp/simonSound3.mp3');
+  'https://s3.amazonaws.com/freecodecamp/simonSound3.mp3');
 var audio4 = new Audio(
-  'http://s3.amazonaws.com/freecodecamp/simonSound4.mp3');
+  'https://s3.amazonaws.com/freecodecamp/simonSound4.mp3');
 var audioBuzzer = new Audio('https://s3-us-west-2.amazonaws.com/guylemon/Buzzer.mp3');
 
 // Handles ON and OFF
